@@ -5,28 +5,49 @@ https://github.com/user-attachments/assets/6ec78b2c-3577-4ff1-aa38-5d1eae5a3f62
 
 
 
-A simple Bank Management System developed using Java to manage basic banking operations such as account creation, deposits, withdrawals, and balance inquiry. This project demonstrates core Java concepts and object-oriented programming principles.
+# Bank Management System (Core Java)
 
-Features
+A console-based Bank Management System developed using **Core Java**.  
+The application simulates basic banking operations such as account creation, deposits, withdrawals, and balance inquiry.
 
-Create new bank accounts
+## Features
+- Create and manage bank accounts
+- Deposit and withdraw money
+- Balance inquiry
+- Transaction handling
+- Menu-driven console interface
 
-Deposit and withdraw money
+## Technologies Used
+- Core Java
+- Java Collections Framework
+- File Handling (if implemented)
+- Exception Handling
 
-Check account balance
+## Core Java Concepts Used
+- Classes and Objects
+- Encapsulation
+- Inheritance
+- Polymorphism
+- Exception Handling
+- Collections (List / Map)
 
-Display customer details
+## Application Modules
+- Account Management
+- Transaction Processing
+- Customer Operations
+- Data Storage (in-memory / file-based)
 
-Console-based user interaction
+## Application Flow
+1. User selects an operation from the menu
+2. System validates input
+3. Requested banking operation is performed
+4. Updated account details are displayed
 
-Technologies Used
+## How to Run
+1. Clone the repository
+2. Open the project in a Java IDE
+3. Compile and run the main Java class
+4. Use the console menu to perform banking operations
 
-Java
-
-OOP (Encapsulation, Inheritance, Polymorphism)
-
-AWT
-
-Exception Handling
-
-Swing
+## Purpose
+This project demonstrates strong understanding of **Core Java fundamentals and object-oriented programming**, suitable for entry-level Java developer positions.
