@@ -25,6 +25,8 @@ Java
 
 OOP (Encapsulation, Inheritance, Polymorphism)
 
-Collections (if used)
+AWT
 
 Exception Handling
+
+Swing
